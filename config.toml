@@ -1,0 +1,96 @@
+baseurl = "http://www.example.com"
+title = "Gyuho Lee"
+
+theme = "gyuho"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Gyuho Lee"
+    description = "Gyuho Lee's personal website"
+    keywords = "blog,developer,personal"
+    info = "etcd EKS Kubernetes"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "Enter a text here."
+    fixedbarContent = "Hello World!"
+    fixedbarContentAfter = "Thank You!"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/gyuho/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/gyuhox/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://linkedin.com/in/gyuho"
+[[params.social]]
+    name = "YouTube"
+    weight = 3
+    url = "https://youtube.com/c/GyuhoLeeLearn"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Gyuho Lee"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Gyuho Lee"
+            info = "etcd, EKS, Kubernetes"
+            description = "Gyuho Lee's personal website"
+            keywords = "blog,developer,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "about"
+            [[languages.en.menu.main]]
+                name = "Blog"
+                weight = 2.0
+                url = "posts"
+            [[languages.en.menu.main]]
+                name = "Projects"
+                weight = 3
+                url = "projects"
+            [[languages.en.menu.main]]
+                name = "Contact me"
+                weight = 5
+                url = "contact"

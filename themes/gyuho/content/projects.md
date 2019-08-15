@@ -1,0 +1,161 @@
++++
+title = "Projects"
+slug = "projects"
+thumbnail = "images/tn.png"
+description = "projects"
++++
+
+<ul>
+    <li class="special"><a href="https://github.com/gyuho/dplearn" target="_blank"><b>dplearn</b></a>
+    <ul>
+        <li class="special">Machine learning as a service (prototype).</li>
+        <li class="special">Deep neural network cat vs. non-cat classifier.</li>
+    </ul>
+    <li class="special"><a href="https://github.com/gyuho/learn" target="_blank"><b>Learn</b></a>
+    </li>
+    <li class="special"><a href="https://youtube.com/c/GyuhoLeeLearn" target="_blank">YouTube Channel</a>
+    </li>
+    <ul>
+        <li class="special"><a href="http://www.youtube.com/watch?v=NdfIfxTsVDo&list=PLT6aABhFfinvsSn1H195JLuHaXNS6UVhf" target="_blank">Tree, Heap, Graph (Playlist)</a>
+        </li>
+        <li class="special"><a href="https://www.youtube.com/watch?v=aEIhvv5p-V8&index=2&list=PLT6aABhFfintuJlJ1HsSG2Qs13fdxP5T9" target="_blank">Dynamic Programming (Playlist)</a>
+        </li>
+    </ul>
+</ul>
+<iframe width="420" height="220" src="//www.youtube.com/embed/ImMnYq2zP4Y?list=PLT6aABhFfinvsSn1H195JLuHaXNS6UVhf" frameborder="0" allowfullscreen></iframe>
+
+
+<hr>
+
+
+<h3 class="thetitle"><a href="https://github.com/etcd-io/etcd" target="_blank">etcd</a> &thinsp;
+</h3>
+<p>Distributed reliable key-value store for the most critical data of a distributed system.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/coreos/dbtester" target="_blank">dbtester</a> &thinsp;
+</h3>
+<p>Distributed database benchmark tester.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/etcd-io/etcdlabs" target="_blank">etcdlabs</a> &thinsp;
+</h3>
+<p>etcd playground, interactive guides and documentation.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/etcd-io/etcd-play" target="_blank">etcd-play</a> &thinsp;
+</h3>
+<p>etcd playground.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/coreos/discovery.etcd.io" target="_blank">discovery.etcd.io</a> &thinsp;
+</h3>
+<p>etcd discovery service.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/etcd-io/protodoc" target="_blank">protodoc</a> &thinsp;
+</h3>
+<p>protodoc generates Protocol Buffer documentation.</p>
+<hr>
+
+<br><br>
+#### Writing
+
+
+<h3 class="thetitle"><a href=https://kubernetes.io/blog/2018/12/11/etcd-current-status-and-future-roadmap/" target="_blank">etcd: Current status and future roadmap</a> &thinsp;
+</h3>
+<p>etcd joins CNCF</p>
+<hr>
+<h3 class="thetitle"><a href="https://coreos.com/blog/announcing-etcd-3.3" target="_blank">Announcing etcd 3.3, with improvements to stability, performance, and more</a> &thinsp;
+</h3>
+<p>etcd: announcing 3.3</p>
+<hr>
+<h3 class="thetitle"><a href="https://coreos.com/blog/performance-of-etcd.html" target="_blank">Exploring Performance of etcd, Zookeeper and Consul Consistent Key-value Datastores</a> &thinsp;
+</h3>
+<p>etcd: performance analysis, part I</p>
+<hr>
+<h3 class="thetitle"><a href="https://blog.gopheracademy.com/advent-2016/testing-distributed-systems-in-go/" target="_blank">Testing distributed systems in Go</a> &thinsp;
+</h3>
+<p>etcd: testing framework</p>
+<hr>
+<h3 class="thetitle"><a href="https://blog.gopheracademy.com/advent-2015/etcd-distributed-key-value-store-with-grpc-http2" target="_blank">gRPC vs JSON RPC</a> &thinsp;
+</h3>
+<p>etcd: distributed key-value store with grpc and HTTP/2</p>
+<hr>
+
+<br>
+<br>
+#### Talks
+
+<h3 class="thetitle"><a href="https://github.com/gyuho/presentations" target="_blank">More talks here</a> &thinsp;
+</h3>
+<p>Many more talks since then</p>
+<hr>
+<h3 class="thetitle"><a href="https://github.com/gyuho/presentations/tree/master/20160824-kubernetes-etcd" target="_blank">Bay Area Kubernetes Meetup (2016.08.24)</a> &thinsp;
+</h3>
+<p>etcd: status updates</p>
+<hr>
+<h3 class="thetitle"><a href="https://github.com/gyuho/presentations/tree/master/20160516-gopherfest-etcd" target="_blank">Gopherfest (2016.05.16)</a> &thinsp;
+</h3>
+<p>etcd: mission critical key-value store</p>
+<hr>
+
+<br><br>
+#### Projects
+
+<h3 class="thetitle"><a href="https://github.com/gyuho/linux-inspect" target="_blank">linux-inspect</a> &thinsp;
+<a href="https://goreportcard.com/report/github.com/gyuho/linux-inspect"><img src="https://camo.githubusercontent.com/5d555a180763f8ce2819b44d2715c501bd448de2/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f677975686f2f6c696e75782d696e73706563743f7374796c653d666c61742d737175617265" alt="Go Report Card" data-canonical-src="https://goreportcard.com/badge/github.com/gyuho/linux-inspect?style=flat-square" style="max-width:100%;"></a>
+<a href="https://travis-ci.org/gyuho/linux-inspect"><img src="https://camo.githubusercontent.com/d65935c966630b567f6fa9637602330c527e77ed/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f677975686f2f6c696e75782d696e73706563742e7376673f7374796c653d666c61742d737175617265" alt="Build Status" data-canonical-src="https://img.shields.io/travis/gyuho/linux-inspect.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://semaphoreci.com/gyuho/linux-inspect"><img src="https://camo.githubusercontent.com/c398b98b5f3c53ce2d57d6e1a44cf84f8108b43b/68747470733a2f2f73656d6170686f726563692e636f6d2f6170692f76312f677975686f2f6c696e75782d696e73706563742f6272616e636865732f6d61737465722f736869656c64735f62616467652e737667" alt="Build Status" data-canonical-src="https://semaphoreci.com/api/v1/gyuho/linux-inspect/branches/master/shields_badge.svg" style="max-width:100%;"></a>
+<a href="https://godoc.org/github.com/gyuho/linux-inspect"><img src="https://camo.githubusercontent.com/5986223ab85b4d7d9ec311c65a8b8af8ee8a4bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f646f632d646f63756d656e746174696f6e2d626c75652e7376673f7374796c653d666c61742d737175617265" alt="Godoc" data-canonical-src="https://img.shields.io/badge/godoc-documentation-blue.svg?style=flat-square" style="max-width:100%;"></a>
+</h3>
+<p>linux-inspect implements various Linux inspecting utilities.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/gyuho/goraph" target="_blank">package goraph</a> &thinsp;
+<a href="https://goreportcard.com/report/github.com/gyuho/goraph"><img src="https://camo.githubusercontent.com/4e1bf2922145932aaed36876346e83d002cad6f3/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f677975686f2f676f726170683f7374796c653d666c61742d737175617265" alt="Go Report Card" data-canonical-src="https://goreportcard.com/badge/github.com/gyuho/goraph?style=flat-square" style="max-width:100%;"></a>
+<a href="https://travis-ci.org/gyuho/goraph"><img src="https://camo.githubusercontent.com/330ac010770a154537c596266cf6d3e59b4e134b/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f677975686f2f676f726170682e7376673f7374796c653d666c61742d737175617265" alt="Build Status" data-canonical-src="https://img.shields.io/travis/gyuho/goraph.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://godoc.org/github.com/gyuho/goraph"><img src="https://camo.githubusercontent.com/5986223ab85b4d7d9ec311c65a8b8af8ee8a4bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f646f632d646f63756d656e746174696f6e2d626c75652e7376673f7374796c653d666c61742d737175617265" alt="Godoc" data-canonical-src="https://img.shields.io/badge/godoc-documentation-blue.svg?style=flat-square" style="max-width:100%;"></a>
+</h3>
+<p>Package goraph implements graph data structure and algorithms.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/gyuho/db" target="_blank">package db</a> &thinsp;
+<a href="https://goreportcard.com/report/github.com/gyuho/db"><img src="https://camo.githubusercontent.com/7107f42b9d67436ce9a9d61c0f968e2399230a73/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f677975686f2f64623f7374796c653d666c61742d737175617265" alt="Go Report Card" data-canonical-src="https://goreportcard.com/badge/github.com/gyuho/db?style=flat-square" style="max-width:100%;"></a>
+<a href="https://travis-ci.org/gyuho/db"><img src="https://camo.githubusercontent.com/a3ba9493a6052799d8a85822b6bfe683d952c2b3/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f677975686f2f64622e7376673f7374796c653d666c61742d737175617265" alt="Build Status" data-canonical-src="https://img.shields.io/travis/gyuho/db.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://godoc.org/github.com/gyuho/db"><img src="https://camo.githubusercontent.com/5986223ab85b4d7d9ec311c65a8b8af8ee8a4bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f646f632d646f63756d656e746174696f6e2d626c75652e7376673f7374796c653d666c61742d737175617265" alt="Godoc" data-canonical-src="https://img.shields.io/badge/godoc-documentation-blue.svg?style=flat-square" style="max-width:100%;"></a>
+</h3>
+<p>Learn distributed database from scratch.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/gyuho/llrb" target="_blank">package llrb</a> &thinsp;
+<a href="https://goreportcard.com/report/github.com/gyuho/llrb"><img src="https://camo.githubusercontent.com/a4ab9911a2c8b4e21833f84b154ecbff38fb00d8/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f677975686f2f6c6c72623f7374796c653d666c61742d737175617265" alt="Go Report Card" data-canonical-src="https://goreportcard.com/badge/github.com/gyuho/llrb?style=flat-square" style="max-width:100%;"></a>
+<a href="https://travis-ci.org/gyuho/llrb"><img src="https://camo.githubusercontent.com/0bf5b34ec506a2b9ebfee709fb8671e422ca2f50/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f677975686f2f6c6c72622e7376673f7374796c653d666c61742d737175617265" alt="Build Status" data-canonical-src="https://img.shields.io/travis/gyuho/llrb.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://godoc.org/github.com/gyuho/llrb"><img src="https://camo.githubusercontent.com/5986223ab85b4d7d9ec311c65a8b8af8ee8a4bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f646f632d646f63756d656e746174696f6e2d626c75652e7376673f7374796c653d666c61742d737175617265" alt="Godoc" data-canonical-src="https://img.shields.io/badge/godoc-documentation-blue.svg?style=flat-square" style="max-width:100%;"></a>
+</h3>
+<p>Package llrb implements left-leaning Red-Black tree.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/gyuho/bst" target="_blank">package bst</a> &thinsp;
+<a href="https://goreportcard.com/report/github.com/gyuho/bst"><img src="https://camo.githubusercontent.com/5cb9d10e1e3dafe578513b61b21b6aefd237c63e/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f677975686f2f6273743f7374796c653d666c61742d737175617265" alt="Go Report Card" data-canonical-src="https://goreportcard.com/badge/github.com/gyuho/bst?style=flat-square" style="max-width:100%;"></a>
+<a href="https://travis-ci.org/gyuho/bst"><img src="https://camo.githubusercontent.com/2ee0be16a70287ebe74040ab260ca09e997acc09/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f677975686f2f6273742e7376673f7374796c653d666c61742d737175617265" alt="Build Status" data-canonical-src="https://img.shields.io/travis/gyuho/bst.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://godoc.org/github.com/gyuho/bst"><img src="https://camo.githubusercontent.com/5986223ab85b4d7d9ec311c65a8b8af8ee8a4bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f646f632d646f63756d656e746174696f6e2d626c75652e7376673f7374796c653d666c61742d737175617265" alt="Godoc" data-canonical-src="https://img.shields.io/badge/godoc-documentation-blue.svg?style=flat-square" style="max-width:100%;"></a>
+</h3>
+<p>Package bst implements binary search tree.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/gyuho/goling" target="_blank">package goling</a> &thinsp;
+<a href="https://goreportcard.com/report/github.com/gyuho/goling"><img src="https://camo.githubusercontent.com/d3f70e07b775cd545bef6b81d2f209ad51d7c952/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f677975686f2f676f6c696e673f7374796c653d666c61742d737175617265" alt="Go Report Card" data-canonical-src="https://goreportcard.com/badge/github.com/gyuho/goling?style=flat-square" style="max-width:100%;"></a>
+<a href="https://travis-ci.org/gyuho/goling"><img src="https://camo.githubusercontent.com/baf18d2b693a431d95b433ede3b7f969f77c0afe/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f677975686f2f676f6c696e672e7376673f7374796c653d666c61742d737175617265" alt="Build Status" data-canonical-src="https://img.shields.io/travis/gyuho/goling.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://godoc.org/github.com/gyuho/goling"><img src="https://camo.githubusercontent.com/5986223ab85b4d7d9ec311c65a8b8af8ee8a4bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f646f632d646f63756d656e746174696f6e2d626c75652e7376673f7374796c653d666c61742d737175617265" alt="Godoc" data-canonical-src="https://img.shields.io/badge/godoc-documentation-blue.svg?style=flat-square" style="max-width:100%;"></a>
+</h3>
+<p>Package goling provides natural language processing tools.</p>
+<hr>
+
+<h3 class="thetitle"><a href="https://github.com/gyuho/dataframe" target="_blank">package dataframe</a> &thinsp;
+<a href="https://goreportcard.com/report/github.com/gyuho/dataframe"><img src="https://camo.githubusercontent.com/3a8b36e18fc55ba46ca813d058fd2c87322889fd/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f677975686f2f646174616672616d653f7374796c653d666c61742d737175617265" alt="Go Report Card" data-canonical-src="https://goreportcard.com/badge/github.com/gyuho/dataframe?style=flat-square" style="max-width:100%;"></a>
+<a href="https://travis-ci.org/gyuho/dataframe"><img src="https://camo.githubusercontent.com/92406fd638f1ca933a1979a2d02d33c274e556ad/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f677975686f2f646174616672616d652e7376673f7374796c653d666c61742d737175617265" alt="Build Status" data-canonical-src="https://img.shields.io/travis/gyuho/dataframe.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://godoc.org/github.com/gyuho/dataframe"><img src="https://camo.githubusercontent.com/5986223ab85b4d7d9ec311c65a8b8af8ee8a4bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f646f632d646f63756d656e746174696f6e2d626c75652e7376673f7374796c653d666c61742d737175617265" alt="Godoc" data-canonical-src="https://img.shields.io/badge/godoc-documentation-blue.svg?style=flat-square" style="max-width:100%;"></a>
+</h3>
+<p>Package dataframe implements data frame.</p>
+<hr>
