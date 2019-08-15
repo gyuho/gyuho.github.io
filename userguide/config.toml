@@ -50,13 +50,13 @@ anchor = "smart"
 # Additional menu items
 
 [[menu.main]]
-    name = "Example Site"
+    name = "My Website"
     weight = 40
-    url = "https://example.docsy.dev"
+    url = "https://gyuho.dev"
 [[menu.main]]
     name = "GitHub"
     weight = 50
-    url = "https://github.com/google/docsy/"
+    url = "https://github.com/gyuho"
 
 [services]
 [services.googleAnalytics]
@@ -84,9 +84,9 @@ privacy_policy = "https://policies.google.com/privacy"
 version_menu = "Releases"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy"
+github_repo = "https://github.com/gyuho"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/gyuho"
 
 # Specify a value here if your content directory is not in your repo's root directory
 github_subdir = "userguide"
@@ -127,7 +127,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
         # desc = "Discussion and help from your fellow users"
 [[params.links.user]]
 	name ="Twitter"
-	url = "https://twitter.com/docsydocs"
+	url = "https://twitter.com/gyuhox"
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
 # [[params.links.user]]
@@ -138,18 +138,9 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/google/docsy"
+	url = "https://github.com/gyuho"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
-# [[params.links.developer]]
-	# name = "Slack"
-	# url = "https://example.org/slack"
-	# icon = "fab fa-slack"
-        # desc = "Chat with other project developers"
-# [[params.links.developer]]
-	# name = "Developer mailing list"
-	# url = "https://example.org/mail"
-	# icon = "fa fa-envelope"
-        # desc = "Discuss development issues around the project"
+
 
 
