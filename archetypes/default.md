@@ -1,8 +1,6 @@
-+++ 
-draft = true
-date = {{ .Date }}
-title = ""
-slug = "" 
-thumbnail = "{{ .Site.Params.thumbnail }}"
-description = ""
-+++
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+---
+
