@@ -119,28 +119,31 @@ yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/i
 no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
 
 [params.links]
-# End user relevant links. These will show up on left side of footer and in the community page if you have one.
-# [[params.links.user]]
-	# name = "User mailing list"
-	# url = "https://example.org/mail"
-	# icon = "fa fa-envelope"
-        # desc = "Discussion and help from your fellow users"
+
+[[params.links.user]]
+	name = "Email me!"
+	url = "mailto:gyuhox@gmail.com"
+	icon = "fa fa-envelope"
+        desc = "Contact me via email"
 [[params.links.user]]
 	name ="Twitter"
 	url = "https://twitter.com/gyuhox"
 	icon = "fab fa-twitter"
-        desc = "Follow us on Twitter to get the latest news!"
+        desc = "Follow me on Twitter to get the latest news!"
 [[params.links.user]]
 	name = "LinkedIn"
 	url = "https://www.linkedin.com/in/gyuho/"
 	icon = "fab fa-linkedin"
         desc = "LinkedIn profile"
-# Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+
 [[params.links.developer]]
 	name = "GitHub"
 	url = "https://github.com/gyuho"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
-
-
+[[params.links.developer]]
+	name = "YouTube"
+	url = "https://www.youtube.com/user/gyuhocs"
+	icon = "fab fa-youtube"
+        desc = "Development takes place here!"
 
