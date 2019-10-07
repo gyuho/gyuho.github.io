@@ -1,5 +1,5 @@
 [build]
-  publish = "public"
+  publish = "leegyuho/public"
   command = "cd leegyuho && hugo -t spectre-pixel"
 
 [build.environment]
