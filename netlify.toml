@@ -1,6 +1,5 @@
 [build]
-  publish = "userguide/public"
-  command = "git submodule update -f --init && cd userguide && npm install postcss-cli && hugo --themesDir ../.."
+  command = "cd leegyuho && hugo server -t spectre-pixel"
 
 [build.environment]
   HUGO_VERSION = "0.55.6"

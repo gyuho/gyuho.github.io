@@ -1,0 +1,51 @@
+# Site settings
+baseurl = "https://gyuho.dev"
+languageCode = "en-us"
+title = "Gyuho Lee"
+theme = "spectre-pixel"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+[params]
+  name = "Gyuho Lee"
+  altName = "leegyuho"
+  description = "Gyuho's personal website"
+  bio = "Software Development Engineer at AWS"
+  enableRSS = true
+
+  # Author information in posts
+  aboutAuthor = "I work on etcd, Kubernetes, and EKS."
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = [
+    "https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+  ]
+  customJS  = []
+
+  # The variables below are optionally too and can be used to
+  # translate or customize each string of the theme.
+
+  # Navigation links
+	home = ""
+	subscribe = ""
+
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	copyright = ""
+
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+# Add additional social link entries underneath
+[social]
+	email    = "leegyuho@amazon.com"
+	github   = "https://github.com/gyuho"
+	linkedin = "https://linkedin.com/in/gyuho/"
+	twitter  = "https://twitter.com/gyuhox"
+
+[taxonomies]
+  tag = "tags"
