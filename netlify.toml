@@ -1,5 +1,6 @@
 [build]
-  command = "cd leegyuho && hugo server -t spectre-pixel"
+  publish = "public"
+  command = "cd leegyuho && hugo -t spectre-pixel"
 
 [build.environment]
   HUGO_VERSION = "0.55.6"
